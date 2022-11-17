@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Promosyon Uygulaması</string>
+    <string name="text_contact_name">Kişi adı</string>
+    <string name="text_contact_number">İletişim numarası</string>
+    <string name="text_display_name">Görünen ad</string>
+    <string name="check_box_include_junior">Junior-ı dahil et</string>
+    <string name="check_box_immediate_start">Hemen başla</string>
+    <string name="text_available_date">Uygun tarih</string>
+    <string name="button_preview_message">Önizleme mesajı</string>
+    <string name="button_send_message">Mesaj gönder</string>
+
+</resources>
